@@ -1,0 +1,12 @@
+# Create new requirements.txt without psycopg2
+echo Django==4.2.7 > requirements.txt
+echo djangorestframework==3.14.0 >> requirements.txt
+echo django-filter==23.3 >> requirements.txt
+echo graphene-django==3.1.5 >> requirements.txt
+echo django-cors-headers==4.3.1 >> requirements.txt
+echo Pillow==10.0.1 >> requirements.txt
+echo python-decouple==3.8 >> requirements.txt
+echo django-extensions==3.2.3 >> requirements.txt
+echo graphql-core==3.2.3 >> requirements.txt
+echo graphene==3.2.2 >> requirements.txt
+echo PyJWT==2.8.0 >> requirements.txt
